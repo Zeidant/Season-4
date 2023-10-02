@@ -64,8 +64,27 @@
     </div>
   </div>
 
+<<<<<<< HEAD
   <script src="js/music-list.js"></script>
   <script src="js/script.js"></script>
+=======
+  <script>
+    // Change the value of countDownEndDate to the day you want to end the count down
+    var countDownEndDate = "October 1, 2023 22:00:01";
+    
+    var endDate = new Date(countDownEndDate).getTime();
+    
+    var x = setInterval(function() {
+    
+      var timeNow = new Date().getTime();
+    
+      var timeLeft = endDate - timeNow;
+    
+      var days    = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+      var hours   = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      var minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+>>>>>>> 0456feaeda52aa4da661c02d1ac931e2fd5d9073
 
 </body>
 </html>
