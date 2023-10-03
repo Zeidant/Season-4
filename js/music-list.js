@@ -24,7 +24,7 @@ let allMusic = [
     "src": "music-2"
   },
   {
-    "name": "3. Solo"
+    "name": "3. Solo",
     "artist": "Jennie",
     "img": "music-3",
     "src": "music-3"
