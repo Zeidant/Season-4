@@ -34,5 +34,11 @@ let allMusic = [
     "artist": "BTS",
     "img": "music-4",
     "src": "music-4"
-  }
+  },
+  {
+    "name": "5. Golden Brown",
+    "artist": "The Stranglers",
+    "img": "music-5",
+    "src": "music-5"
+  },
 ];
