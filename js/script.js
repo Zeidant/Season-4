@@ -12,7 +12,8 @@ musicList = wrapper.querySelector(".music-list"),
 moreMusicBtn = wrapper.querySelector("#more-music"),
 closemoreMusic = musicList.querySelector("#close");
 
-let musicIndex = 3;
+//let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
+let musicIndex = 4;
 isMusicPaused = true;
 
 window.addEventListener("load", ()=>{

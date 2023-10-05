@@ -28,5 +28,11 @@ let allMusic = [
     "artist": "Jennie",
     "img": "music-3",
     "src": "music-3"
+  },
+  {
+    "name": "4. dimple",
+    "artist": "BTS",
+    "img": "music-4",
+    "src": "music-4"
   }
 ];
