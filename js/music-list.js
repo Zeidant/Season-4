@@ -41,4 +41,10 @@ let allMusic = [
     "img": "music-5",
     "src": "music-5"
   },
+  {
+    "name": "6. Fast Car",
+    "artist": "Jonas Blue",
+    "img": "music-6",
+    "src": "music-6"
+  },
 ];
