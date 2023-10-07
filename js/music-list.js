@@ -47,4 +47,10 @@ let allMusic = [
     "img": "music-6",
     "src": "music-6"
   },
+  {
+    "name": "7. Die 4 me",
+    "artist": "Halsey",
+    "img": "music-6",
+    "src": "music-6"
+  },
 ];
