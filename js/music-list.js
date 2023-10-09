@@ -53,4 +53,10 @@ let allMusic = [
     "img": "music-7",
     "src": "music-7"
   },
+  {
+    "name": "8. Small Worlds",
+    "artist": "Mac Miller",
+    "img": "music-8",
+    "src": "music-8"
+  },
 ];
