@@ -57,6 +57,12 @@ let allMusic = [
     "name": "8. Small Worlds",
     "artist": "Mac Miller",
     "img": "music-8",
-    "src": "music-8"
+    "src": "music-8",
+  },
+  {
+    "name": "9. Rosa Pastel",
+    "artist": "Belanova",
+    "img": "music-9",
+    "src": "music-9",
   },
 ];
