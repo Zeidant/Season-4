@@ -65,4 +65,10 @@ let allMusic = [
     "img": "music-9",
     "src": "music-9",
   },
+  {
+    "name": "10. Mi Bendicion",
+    "artist": "Juan Luis Guerra 4.40",
+    "img": "music-10",
+    "src": "music-10",
+  },
 ];
