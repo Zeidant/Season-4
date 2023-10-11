@@ -13,7 +13,7 @@ moreMusicBtn = wrapper.querySelector("#more-music"),
 closemoreMusic = musicList.querySelector("#close");
 
 //let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
-let musicIndex = 10;
+let musicIndex = 11;
 isMusicPaused = true;
 
 window.addEventListener("load", ()=>{
