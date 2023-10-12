@@ -77,4 +77,10 @@ let allMusic = [
     "img": "music-11",
     "src": "music-11",
   },
+  {
+    "name": "12. Mi Luz",
+    "artist": "Rvfv",
+    "img": "music-12",
+    "src": "music-12",
+  },
 ];
