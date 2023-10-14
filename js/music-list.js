@@ -9,7 +9,7 @@
 
 //paste it inside the array as more as you want music then you don't need to do any other thing
 
-let allMusic = [
+const allMusic = [
    {
     "name": "1. Attention",
     "artist": "NewJeans",
@@ -90,3 +90,5 @@ let allMusic = [
     "src": "music-13",
   },
 ];
+
+export default allMusic;
