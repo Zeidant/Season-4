@@ -89,6 +89,12 @@ const allMusic = [
     "img": "music-13",
     "src": "music-13",
   },
+   {
+    "name": "14. Saturday Nights REMIX",
+    "artist": "Khalid",
+    "img": "music-14",
+    "src": "music-14",
+  },
 ];
 
 export default allMusic;
