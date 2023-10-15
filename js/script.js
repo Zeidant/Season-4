@@ -30,8 +30,42 @@ async function fetchSongList() {
 	}
 }
 
+function renderMusicList() {
+	const ulTag = wrapper.querySelector('ul');
+	// let create li tags according to array length for list
+	for (let i = 0; i < allMusic.length; i++) {
+		//let's pass the song name, artist from the array
+		let liTag = `<li li-index="${i + 1}">
+                <div class="row">
+                  <span>${allMusic[i].name}</span>
+                  <p>${allMusic[i].artist}</p>
+                </div>
+                <span id="${allMusic[i].src}" class="audio-duration">3:40</span>
+                <audio class="${allMusic[i].src}" src="songs/${
+			allMusic[i].src
+		}.mp3"></audio>
+              </li>`;
+		ulTag.insertAdjacentHTML('beforeend', liTag); //inserting the li inside ul tag
+
+		let liAudioDuartionTag = ulTag.querySelector(`#${allMusic[i].src}`);
+		let liAudioTag = ulTag.querySelector(`.${allMusic[i].src}`);
+		liAudioTag.addEventListener('loadeddata', () => {
+			let duration = liAudioTag.duration;
+			let totalMin = Math.floor(duration / 60);
+			let totalSec = Math.floor(duration % 60);
+			if (totalSec < 10) {
+				//if sec is less than 10 then add 0 before it
+				totalSec = `0${totalSec}`;
+			}
+			liAudioDuartionTag.innerText = `${totalMin}:${totalSec}`; //passing total duation of song
+			liAudioDuartionTag.setAttribute('t-duration', `${totalMin}:${totalSec}`); //adding t-duration attribute with total duration value
+		});
+	}
+}
+
 window.addEventListener('load', async () => {
 	await fetchSongList();
+	renderMusicList();
 	loadMusic(musicIndex);
 	playingSong();
 });
@@ -190,37 +224,6 @@ moreMusicBtn.addEventListener('click', () => {
 closemoreMusic.addEventListener('click', () => {
 	moreMusicBtn.click();
 });
-
-const ulTag = wrapper.querySelector('ul');
-// let create li tags according to array length for list
-for (let i = 0; i < allMusic.length; i++) {
-	//let's pass the song name, artist from the array
-	let liTag = `<li li-index="${i + 1}">
-                <div class="row">
-                  <span>${allMusic[i].name}</span>
-                  <p>${allMusic[i].artist}</p>
-                </div>
-                <span id="${allMusic[i].src}" class="audio-duration">3:40</span>
-                <audio class="${allMusic[i].src}" src="songs/${
-		allMusic[i].src
-	}.mp3"></audio>
-              </li>`;
-	ulTag.insertAdjacentHTML('beforeend', liTag); //inserting the li inside ul tag
-
-	let liAudioDuartionTag = ulTag.querySelector(`#${allMusic[i].src}`);
-	let liAudioTag = ulTag.querySelector(`.${allMusic[i].src}`);
-	liAudioTag.addEventListener('loadeddata', () => {
-		let duration = liAudioTag.duration;
-		let totalMin = Math.floor(duration / 60);
-		let totalSec = Math.floor(duration % 60);
-		if (totalSec < 10) {
-			//if sec is less than 10 then add 0 before it
-			totalSec = `0${totalSec}`;
-		}
-		liAudioDuartionTag.innerText = `${totalMin}:${totalSec}`; //passing total duation of song
-		liAudioDuartionTag.setAttribute('t-duration', `${totalMin}:${totalSec}`); //adding t-duration attribute with total duration value
-	});
-}
 
 //play particular song from the list onclick of li tag
 function playingSong() {
