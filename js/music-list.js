@@ -95,6 +95,12 @@ const allMusic = [
     "img": "music-14",
     "src": "music-14",
   },
+  {
+    "name": "15. Kings and Queens of Wasteland",
+    "artist": "Jukio Kallio",
+    "img": "music-15",
+    "src": "music-15",
+  },
 ];
 
 export default allMusic;
