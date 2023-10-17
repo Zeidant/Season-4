@@ -101,6 +101,12 @@ const allMusic = [
     "img": "music-15",
     "src": "music-15",
   },
+  {
+    "name": "16. Crown",
+    "artist": "Kendrick Lamar",
+    "img": "music-16",
+    "src": "music-16",
+  },
 ];
 
 export default allMusic;
