@@ -113,6 +113,12 @@ const allMusic = [
     "img": "music-17",
     "src": "music-17",
   },
+  {
+    "name": "18. Cocoon",
+    "artist": "070 Shake",
+    "img": "music-18",
+    "src": "music-18",
+  },
 ];
 
 export default allMusic;
