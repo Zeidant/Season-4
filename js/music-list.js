@@ -119,6 +119,12 @@ const allMusic = [
     "img": "music-18",
     "src": "music-18",
   },
+  {
+    "name": "19. I GUESS IT'S LOVE",
+    "artist": "The Kid LAROI",
+    "img": "music-19",
+    "src": "music-19",
+  },
 ];
 
 export default allMusic;
