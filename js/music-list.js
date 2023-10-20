@@ -125,6 +125,12 @@ const allMusic = [
     "img": "music-19",
     "src": "music-19",
   },
+  {
+    "name": "20. YOSEMITE",
+    "artist": "Travis Scott",
+    "img": "music-20",
+    "src": "music-20",
+  },
 ];
 
 export default allMusic;
