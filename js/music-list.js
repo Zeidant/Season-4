@@ -137,6 +137,12 @@ const allMusic = [
     "img": "music-21",
     "src": "music-21",
   },
+   {
+    "name": "22. A palé",
+    "artist": "ROSALÍA",
+    "img": "music-22",
+    "src": "music-22",
+  },
 ];
 
 export default allMusic;
