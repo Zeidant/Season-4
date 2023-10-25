@@ -151,6 +151,12 @@ const allMusic = [
     "src": "music-23",
   },
   
+  {
+    "name": "24. QQTF",
+    "artist": "Lena Dardelet",
+    "img": "music-24",
+    "src": "music-24",
+  },
 ];
 
 export default allMusic;
