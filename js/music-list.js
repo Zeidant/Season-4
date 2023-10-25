@@ -147,9 +147,10 @@ const allMusic = [
   {
     "name": "23. Move Your Feet",
     "artist": "Junior Senior",
-    "img": "music-22",
-    "src": "music-22",
+    "img": "music-23",
+    "src": "music-23",
   },
+  
 ];
 
 export default allMusic;
