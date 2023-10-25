@@ -157,6 +157,12 @@ const allMusic = [
     "img": "music-24",
     "src": "music-24",
   },
+  {
+    "name": "25. Las divinas",
+    "artist": "Brenda Asnicar",
+    "img": "music-25",
+    "src": "music-25",
+  },
 ];
 
 export default allMusic;
