@@ -169,6 +169,12 @@ const allMusic = [
     "img": "music-26",
     "src": "music-26",
   },
+  {
+    "name": "27. I Need You",
+    "artist": "BTS",
+    "img": "music-27",
+    "src": "music-27",
+  },
 ];
 
 export default allMusic;
