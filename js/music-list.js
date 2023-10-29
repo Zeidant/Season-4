@@ -181,6 +181,12 @@ const allMusic = [
     "img": "music-28",
     "src": "music-28",
   },
+  {
+    "name": "29. About Damn Time",
+    "artist": "Lizzo",
+    "img": "music-29",
+    "src": "music-29",
+  },
 ];
 
 export default allMusic;
