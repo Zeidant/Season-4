@@ -175,6 +175,12 @@ const allMusic = [
     "img": "music-27",
     "src": "music-27",
   },
+  {
+    "name": "28. Why Can't You Wait",
+    "artist": "The Chainsmokers",
+    "img": "music-28",
+    "src": "music-28",
+  },
 ];
 
 export default allMusic;
