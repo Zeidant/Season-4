@@ -187,6 +187,12 @@ const allMusic = [
     "img": "music-29",
     "src": "music-29",
   },
+  {
+    "name": "30. Wild Slide",
+    "artist": "Normani",
+    "img": "music-30",
+    "src": "music-30",
+  },
 ];
 
 export default allMusic;
