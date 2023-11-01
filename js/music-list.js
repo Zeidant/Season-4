@@ -199,6 +199,12 @@ const allMusic = [
     "img": "music-31",
     "src": "music-31",
   },
+  {
+    "name": "32. Good Ones",
+    "artist": "Charli XCX",
+    "img": "music-32",
+    "src": "music-32",
+  },
 ];
 
 export default allMusic;
