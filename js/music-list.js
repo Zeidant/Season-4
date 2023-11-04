@@ -217,6 +217,12 @@ const allMusic = [
     "img": "music-34",
     "src": "music-34",
   },
+  {
+    "name": "35. Suelta",
+    "artist": "Jay Wheeler",
+    "img": "music-35",
+    "src": "music-35",
+  },
 ];
 
 export default allMusic;
