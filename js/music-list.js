@@ -223,13 +223,19 @@ const allMusic = [
     "img": "music-35",
     "src": "music-35",
   },
-
   {
     "name": "36. Set Me Free Pt. 2",
     "artist": "Jimmin",
     "img": "music-36",
     "src": "music-36",
   },
+  {
+    "name": "37. Piece Of Your Heart",
+    "artist": "MEudza",
+    "img": "music-37",
+    "src": "music-37",
+  },
+
 ];
 
 export default allMusic;

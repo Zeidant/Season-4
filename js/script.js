@@ -15,7 +15,7 @@ const wrapper = document.querySelector('.wrapper'),
 let allMusic = [];
 
 //let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
-let musicIndex = 36;
+let musicIndex = 37;
 isMusicPaused = true;
 
 async function fetchSongList() {
