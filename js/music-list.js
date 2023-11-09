@@ -247,7 +247,12 @@ const allMusic = [
     "img": "music-39",
     "src": "music-39",
   },
-
+  {
+    "name": "40. CHARGER",
+    "artist": "ELIO",
+    "img": "music-40",
+    "src": "music-40",
+  },
 ];
 
 export default allMusic;
