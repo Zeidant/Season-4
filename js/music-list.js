@@ -253,6 +253,12 @@ const allMusic = [
     "img": "music-40",
     "src": "music-40",
   },
+  {
+    "name": "41. GO!",
+    "artist": "NEFFEX",
+    "img": "music-41",
+    "src": "music-41",
+  },
 ];
 
 export default allMusic;
