@@ -259,6 +259,12 @@ const allMusic = [
     "img": "music-41",
     "src": "music-41",
   },
+  {
+    "name": "42. Bad Dream Baby",
+    "artist": "Hippo Campus",
+    "img": "music-42",
+    "src": "music-42",
+  },
 ];
 
 export default allMusic;
