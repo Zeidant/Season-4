@@ -265,6 +265,12 @@ const allMusic = [
     "img": "music-42",
     "src": "music-42",
   },
+  {
+    "name": "43. Equally Lost",
+    "artist": "Tove Lo",
+    "img": "music-43",
+    "src": "music-43",
+  },
 ];
 
 export default allMusic;
