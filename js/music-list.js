@@ -271,6 +271,12 @@ const allMusic = [
     "img": "music-43",
     "src": "music-43",
   },
+  {
+    "name": "44. Sueños Sobre Ti",
+    "artist": "Yellow Outlet",
+    "img": "music-44",
+    "src": "music-44",
+  },
 ];
 
 export default allMusic;
