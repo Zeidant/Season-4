@@ -277,6 +277,12 @@ const allMusic = [
     "img": "music-44",
     "src": "music-44",
   },
+  {
+    "name": "45. Paseo",
+    "artist": "Estopa",
+    "img": "music-45",
+    "src": "music-45",
+  },
 ];
 
 export default allMusic;
