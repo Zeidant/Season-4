@@ -283,6 +283,12 @@ const allMusic = [
     "img": "music-45",
     "src": "music-45",
   },
+  {
+    "name": "46. En Alta",
+    "artist": "J Balvin",
+    "img": "music-46",
+    "src": "music-46",
+  },
 ];
 
 export default allMusic;
