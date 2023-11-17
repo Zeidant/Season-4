@@ -289,6 +289,13 @@ const allMusic = [
     "img": "music-46",
     "src": "music-46",
   },
+
+  {
+    "name": "47. Antes de perderte (OG Version)",
+    "artist": "Duki",
+    "img": "music-46",
+    "src": "music-46",
+  },
 ];
 
 export default allMusic;
