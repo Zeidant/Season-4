@@ -293,8 +293,15 @@ const allMusic = [
   {
     "name": "47. Antes de perderte (OG Version)",
     "artist": "Duki",
-    "img": "music-46",
-    "src": "music-46",
+    "img": "music-47",
+    "src": "music-47",
+  },
+
+  {
+    "name": "48. Am I Dreaming",
+    "artist": "Metro Boomin",
+    "img": "music-48",
+    "src": "music-48",
   },
 ];
 
