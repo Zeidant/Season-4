@@ -313,13 +313,19 @@ const allMusic = [
     "artist": "Tainy",
     "img": "music-49",
     "src": "music-49",
-  },
-  
+  }, 
   {
     "name": "50. Como yo :(",
     "artist": "Marshmello",
     "img": "music-50",
     "src": "music-50",
+  },
+
+  {
+    "name": "51. Funny thing",
+    "artist": "Thundercat",
+    "img": "music-51",
+    "src": "music-51",
   },
 ];
 
