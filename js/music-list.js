@@ -95,6 +95,12 @@ const allMusic = [
     "img": "music-14",
     "src": "music-14",
   },
+   {
+    "name": "51. Funny Thing",
+    "artist": "Thundercat",
+    "img": "music-14",
+    "src": "music-14",
+  },
   {
     "name": "15. Kings and Queens of Wasteland",
     "artist": "Jukio Kallio",
