@@ -1,4 +1,4 @@
-// To add more song, just copy the following code and paste inside the array
+2// To add more song, just copy the following code and paste inside the array
 
 //   {
 //     name: "Here is the music name",
@@ -331,6 +331,12 @@ const allMusic = [
     "artist": "Mora",
     "img": "music-52",
     "src": "music-52",
+  },
+  {
+    "name": "53. PORCHE TOPLESS",
+    "artist": "Kid Cudi",
+    "img": "music-53",
+    "src": "music-53",
   },
 ];
 
