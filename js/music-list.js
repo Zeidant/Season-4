@@ -338,6 +338,12 @@ const allMusic = [
     "img": "music-53",
     "src": "music-53",
   },
+  {
+    "name": "54. This Must Be The Place",
+    "artist": "Kishi Bashi",
+    "img": "music-54",
+    "src": "music-54",
+  },
 ];
 
 export default allMusic;
