@@ -344,6 +344,12 @@ const allMusic = [
     "img": "music-54",
     "src": "music-54",
   },
+  {
+    "name": "55. KIKI",
+    "artist": "Mike Towers",
+    "img": "music-55",
+    "src": "music-55",
+  },
 ];
 
 export default allMusic;
