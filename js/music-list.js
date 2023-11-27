@@ -356,6 +356,12 @@ const allMusic = [
     "img": "music-56",
     "src": "music-56",
   },
+  {
+    "name": "57. Speak",
+    "artist": "Internet Money",
+    "img": "music-57",
+    "src": "music-57",
+  },
 ];
 
 export default allMusic;
