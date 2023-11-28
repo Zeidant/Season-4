@@ -362,6 +362,12 @@ const allMusic = [
     "img": "music-57",
     "src": "music-57",
   },
+  {
+    "name": "58. Lush",
+    "artist": "Four Tet",
+    "img": "music-58",
+    "src": "music-58",
+  },
 ];
 
 export default allMusic;
