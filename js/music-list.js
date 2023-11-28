@@ -368,6 +368,12 @@ const allMusic = [
     "img": "music-58",
     "src": "music-58",
   },
+  {
+    "name": "59. Otherside",
+    "artist": "Post Malone",
+    "img": "music-59",
+    "src": "music-59",
+  },
 ];
 
 export default allMusic;
