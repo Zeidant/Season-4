@@ -374,6 +374,12 @@ const allMusic = [
     "img": "music-59",
     "src": "music-59",
   },
+  {
+    "name": "60. Who can it be now",
+    "artist": "Men At Work",
+    "img": "music-59",
+    "src": "music-59",
+  },
 ];
 
 export default allMusic;
