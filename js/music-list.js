@@ -377,8 +377,8 @@ const allMusic = [
   {
     "name": "60. Who can it be now",
     "artist": "Men At Work",
-    "img": "music-59",
-    "src": "music-59",
+    "img": "music-60",
+    "src": "music-60",
   },
 ];
 
