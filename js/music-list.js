@@ -386,6 +386,12 @@ const allMusic = [
     "img": "music-62",
     "src": "music-62",
   },
+  {
+    "name": "63. Cafe Malibú",
+    "artist": "Sech",
+    "img": "music-63",
+    "src": "music-63",
+  },
 ];
 
 export default allMusic;
