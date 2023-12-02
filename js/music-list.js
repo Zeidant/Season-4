@@ -380,6 +380,12 @@ const allMusic = [
     "img": "music-61",
     "src": "music-61",
   },
+  {
+    "name": "62. LOOOVE",
+    "artist": "Travis Scott",
+    "img": "music-62",
+    "src": "music-62",
+  },
 ];
 
 export default allMusic;
