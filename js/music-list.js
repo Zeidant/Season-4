@@ -392,6 +392,13 @@ const allMusic = [
     "img": "music-63",
     "src": "music-63",
   },
+  {
+    "name": "64. Arise",
+    "artist": "Phlocalyst",
+    "img": "music-64",
+    "src": "music-64",
+  },
+  
 ];
 
 export default allMusic;
