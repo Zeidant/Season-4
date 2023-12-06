@@ -412,9 +412,15 @@ const allMusic = [
   },
   {
     "name": "67. Mojabi Ghost",
-    "artist": "Bad Bunny",
+    "artist": "Tainy",
     "img": "music-67",
     "src": "music-67",
+  },
+  {
+    "name": "68. Cosa Guapa",
+    "artist": "Rauw Alejandro",
+    "img": "music-68",
+    "src": "music-68",
   },
   
 ];
