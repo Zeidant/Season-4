@@ -422,6 +422,12 @@ const allMusic = [
     "img": "music-68",
     "src": "music-68",
   },
+  {
+    "name": "69. Bye me fui",
+    "artist": "Bad Nunny",
+    "img": "music-67",
+    "src": "music-67",
+  },
   
 ];
 
