@@ -425,10 +425,16 @@ const allMusic = [
   {
     "name": "69. Bye me fui",
     "artist": "Bad Nunny",
-    "img": "music-67",
-    "src": "music-67",
+    "img": "music-69",
+    "src": "music-69",
   },
   
+  {
+    "name": "70. ASAP",
+    "artist": "New Jeans",
+    "img": "music-70",
+    "src": "music-70",
+  },
 ];
 
 export default allMusic;
