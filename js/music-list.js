@@ -428,12 +428,17 @@ const allMusic = [
     "img": "music-69",
     "src": "music-69",
   },
-  
   {
     "name": "70. ASAP",
     "artist": "New Jeans",
     "img": "music-70",
     "src": "music-70",
+  },
+  {
+    "name": "71. aquatic ambience",
+    "artist": "Scizzie",
+    "img": "music-71",
+    "src": "music-71",
   },
 ];
 
