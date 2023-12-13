@@ -446,6 +446,12 @@ const allMusic = [
     "img": "music-72",
     "src": "music-72",
   },
+  {
+    "name": "73. Ticking Away",
+    "artist": "Valorant",
+    "img": "music-73",
+    "src": "music-73",
+  },
 ];
 
 export default allMusic;
