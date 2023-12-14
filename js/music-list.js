@@ -452,6 +452,12 @@ const allMusic = [
     "img": "music-73",
     "src": "music-73",
   },
+  {
+    "name": "74. Can't Do Without You",
+    "artist": "Caribou",
+    "img": "music-74",
+    "src": "music-74",
+  },
 ];
 
 export default allMusic;
