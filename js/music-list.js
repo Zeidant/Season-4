@@ -464,6 +464,12 @@ const allMusic = [
     "img": "music-75",
     "src": "music-75",
   },
+  {
+    "name": "76. Annie's Song",
+    "artist": "John Denver",
+    "img": "music-76",
+    "src": "music-76",
+  },
 ];
 
 export default allMusic;
