@@ -470,6 +470,12 @@ const allMusic = [
     "img": "music-76",
     "src": "music-76",
   },
+  {
+    "name": "77. Doom",
+    "artist": "Juice WRLD",
+    "img": "music-77",
+    "src": "music-77",
+  },
 ];
 
 export default allMusic;
