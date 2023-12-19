@@ -458,6 +458,12 @@ const allMusic = [
     "img": "music-74",
     "src": "music-74",
   },
+  {
+    "name": "75. AEROBICO REMIX",
+    "artist": "Bhavi",
+    "img": "music-75",
+    "src": "music-75",
+  },
 ];
 
 export default allMusic;
