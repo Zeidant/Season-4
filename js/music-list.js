@@ -476,6 +476,12 @@ const allMusic = [
     "img": "music-77",
     "src": "music-77",
   },
+  {
+    "name": "78. Impala",
+    "artist": "Santoz",
+    "img": "music-78",
+    "src": "music-78",
+  },
 ];
 
 export default allMusic;
