@@ -488,6 +488,72 @@ const allMusic = [
     "img": "music-79",
     "src": "music-79",
   },
+  {
+    "name": "Hey Ya!",
+    "artist": "Outkast",
+    "img": "music-80",
+    "src": "music-80"
+  },
+  {
+    "name": "Bye",
+    "artist": "Peso Pluma",
+    "img": "music-81",
+    "src": "music-81"
+  },
+  {
+    "name": "Suzume",
+    "artist": "RADWIMPS",
+    "img": "music-82",
+    "src": "music-82"
+  },
+  {
+    "name": "PARKOUR",
+    "artist": "Hiroyuki Sawano",
+    "img": "music-83",
+    "src": "music-83"
+  },
+  {
+    "name": "Imprudencia",
+    "artist": "Dalex",
+    "img": "music-84",
+    "src": "music-84"
+  },
+  {
+    "name": "Kill For Your Love",
+    "artist": "Labrinth",
+    "img": "music-85",
+    "src": "music-85"
+  },
+  {
+    "name": "Vino Tinto",
+    "artist": "Calacote",
+    "img": "music-86",
+    "src": "music-86"
+  },
+  {
+    "name": "Awful Times",
+    "artist": "Juice WRLD",
+    "img": "music-87",
+    "src": "music-87"
+  },
+  {
+    "name": "Strangers",
+    "artist": "Kenya Grace",
+    "img": "music-88",
+    "src": "music-88"
+  },
+  {
+    "name": "HVN ON EARTH (with Kodak Black)",
+    "artist": "Lil Tecca",
+    "img": "music-89",
+    "src": "music-89"
+  },
+  {
+    "name": "SPECIALZ",
+    "artist": "King Gnu",
+    "img": "music-90",
+    "src": "music-90"
+  }
 ];
 
 export default allMusic;
