@@ -1,4 +1,4 @@
-2// To add more song, just copy the following code and paste inside the array
+// To add more song, just copy the following code and paste inside the array
 
 //   {
 //     name: "Here is the music name",
